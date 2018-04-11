@@ -1,0 +1,9 @@
+{
+    "name": "app",
+    "description": "",
+    "version": "0.1",
+    "require": {
+        "php": ">=7",
+        "yiisoft/yii2": "~2.0.14"
+    }
+}
